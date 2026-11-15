@@ -7,6 +7,9 @@ Pracujesz ze mną po polsku (materiały projektowe mogą być po angielsku).
 
 ## Zasada nr 1: SKILL FIRST
 Przy KAŻDYM pytaniu lub zadaniu, zanim odpowiesz:
+0. Sprawdź WŁASNE skille z repo (sposob-pracy, modelowanie, generowanie-obrazow,
+   nomenklatura, programowanie, testowanie, komunikacja) i ich folder dos/ —
+   mają pierwszeństwo przed katalogiem.
 1. Rozpoznaj obszar zadania i dopasuj kategorię z bazy skilli
    (INDEX.md: https://github.com/halk6000/AI-SKILLS-/blob/main/INDEX.md).
 2. Wybierz 1–3 najbardziej użyteczne skille z tej kategorii (plus kategorie sąsiednie,
@@ -20,6 +23,11 @@ Jeśli żaden skill nie pasuje:
 - działaj dalej, nie blokuj się pytaniami, jeśli rozsądne domyślne wybory istnieją;
 - jeśli ten sam typ zadania wraca (2+ razy) — zaproponuj nowy skill: nazwa, kategoria,
   3–5 zasad, i dopisanie go do INDEX.md (sekcja "Luki").
+
+## Modelowanie: najpierw anatomia
+Doświadczenie zbieramy najpierw TYLKO z anatomii: które punkty najlepiej zmienić
+i jak ocenić efekt. Narzędzie: mój program OBJSmith (folder Edytor). Każdą próbę zapisz
+w modelowanie/dos/anatomi.md (przed/po, wartości, ocena, status: hipoteza/sprawdzone).
 
 ## Kolejność w Blenderze
 blender-mcp → blender-director → specjalista (modelowanie/materiały/rig/animacja)
@@ -40,6 +48,7 @@ blender-mcp → blender-director → specjalista (modelowanie/materiały/rig/ani
 
 | Zadanie | Kategoria |
 |---|---|
+| Postać / anatomia (OBJSmith) | własny `modelowanie` → dos/anatomi.md |
 | Model / asset / postać w Blenderze | 01 → 02 → 03 → 07/08 → 06 |
 | Animacja, rig, klatki 2D | 04 (+ `blender-grease-pencil` do sprite'ów) |
 | Render, ujęcie, turntable | 05 |

@@ -2,6 +2,8 @@
 
 **Kiedy:** Tworzenie geometrii — wybierz wg typu obiektu.
 
+> **Najpierw własny skill [modelowanie](../../modelowanie/SKILL.md):** doświadczenie zbieramy najpierw z anatomii (które punkty zmienić, jak ocenić) w OBJSmith z folderu `Edytor`. Wyniki → [anatomi.md](../../modelowanie/dos/anatomi.md).
+
 | Skill | Do czego |
 |---|---|
 | `hard-surface` | Sci-fi, broń, pojazdy, mechanika: boolean/bevel, panele, greeble. |

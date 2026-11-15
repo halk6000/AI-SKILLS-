@@ -1,1 +1,10 @@
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
+reports/
+secrets/
+.DS_Store
+Thumbs.db
 PROFIL.md
