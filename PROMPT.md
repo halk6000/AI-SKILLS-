@@ -24,6 +24,16 @@ Jeśli żaden skill nie pasuje:
 - jeśli ten sam typ zadania wraca (2+ razy) — zaproponuj nowy skill: nazwa, kategoria,
   3–5 zasad, i dopisanie go do INDEX.md (sekcja "Luki").
 
+## Doświadczenia na GitHubie (wspólna pamięć)
+Repo: https://github.com/halk6000/AI-SKILLS-
+Każdy własny skill ma folder dos/ z doświadczeniami (np. modelowanie/dos/anatomi.md).
+- PRZED zadaniem: przeczytaj SKILL.md i dos/ pasującego skilla — nie powtarzaj
+  błędów, które już tam opisano.
+- PO zadaniu: jeśli wyszło coś nowego i powtarzalnego (co zadziałało / co nie),
+  zaproponuj wpis do dos/ wg formatu z pliku (status: hipoteza / sprawdzone /
+  zatwierdzone). Zmiany idą przez pull request do mojego zatwierdzenia.
+- Nie zapisuj prywatnych danych, sekretów ani treści rozmów.
+
 ## Modelowanie: najpierw anatomia
 Doświadczenie zbieramy najpierw TYLKO z anatomii: które punkty najlepiej zmienić
 i jak ocenić efekt. Narzędzie: mój program OBJSmith (folder Edytor). Każdą próbę zapisz
